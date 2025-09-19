@@ -1,0 +1,318 @@
+C:\Users\TIMOFEY\source\repos\Coursework\Coursework\obj\Debug\Coursework.csproj.AssemblyReference.cache
+C:\Users\TIMOFEY\source\repos\Coursework\Coursework\obj\Debug\LoginWindow.baml
+C:\Users\TIMOFEY\source\repos\Coursework\Coursework\obj\Debug\LoginWindow.g.cs
+C:\Users\TIMOFEY\source\repos\Coursework\Coursework\obj\Debug\MainWindow.g.cs
+C:\Users\TIMOFEY\source\repos\Coursework\Coursework\obj\Debug\App.g.cs
+C:\Users\TIMOFEY\source\repos\Coursework\Coursework\obj\Debug\Coursework_MarkupCompile.cache
+C:\Users\TIMOFEY\source\repos\Coursework\Coursework\obj\Debug\Coursework_MarkupCompile.lref
+C:\Users\TIMOFEY\source\repos\coursework\Coursework\obj\Debug\RegisterWindow.baml
+C:\Users\TIMOFEY\source\repos\coursework\Coursework\obj\Debug\RegisterWindow.g.cs
+C:\Users\TIMOFEY\source\repos\coursework\Coursework\obj\Debug\MainWindow.baml
+C:\Users\TIMOFEY\source\repos\coursework\Coursework\obj\Debug\Coursework.g.resources
+C:\Users\TIMOFEY\source\repos\coursework\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+C:\Users\TIMOFEY\source\repos\coursework\Coursework\obj\Debug\Coursework.csproj.GenerateResource.cache
+C:\Users\TIMOFEY\source\repos\coursework\Coursework\obj\Debug\Coursework.csproj.CoreCompileInputs.cache
+C:\Users\TIMOFEY\source\repos\coursework\Coursework\obj\Debug\Coursework_Content.g.cs
+C:\Users\TIMOFEY\source\repos\coursework\Coursework\obj\Debug\UserWindow.g.cs
+C:\Users\TIMOFEY\source\repos\coursework\Coursework\bin\Debug\Coursework.exe.config
+C:\Users\TIMOFEY\source\repos\coursework\Coursework\bin\Debug\Coursework.exe
+C:\Users\TIMOFEY\source\repos\coursework\Coursework\bin\Debug\Coursework.pdb
+C:\Users\TIMOFEY\source\repos\coursework\Coursework\bin\Debug\EntityFramework.dll
+C:\Users\TIMOFEY\source\repos\coursework\Coursework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TIMOFEY\source\repos\coursework\Coursework\bin\Debug\EntityFramework.xml
+C:\Users\TIMOFEY\source\repos\coursework\Coursework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TIMOFEY\source\repos\coursework\Coursework\obj\Debug\App.baml
+C:\Users\TIMOFEY\source\repos\coursework\Coursework\obj\Debug\UserWindow.baml
+C:\Users\TIMOFEY\source\repos\coursework\Coursework\obj\Debug\Coursework.csproj.Up2Date
+C:\Users\TIMOFEY\source\repos\coursework\Coursework\obj\Debug\Coursework.exe
+C:\Users\TIMOFEY\source\repos\coursework\Coursework\obj\Debug\Coursework.pdb
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\Coursework.exe.config
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\Coursework.exe
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\Coursework.pdb
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\EntityFramework.dll
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\EntityFramework.xml
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\obj\Debug\Coursework.csproj.AssemblyReference.cache
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\obj\Debug\LoginWindow.baml
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\obj\Debug\MainWindow.baml
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\obj\Debug\RegisterWindow.baml
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\obj\Debug\LoginWindow.g.cs
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\obj\Debug\MainWindow.g.cs
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\obj\Debug\RegisterWindow.g.cs
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\obj\Debug\UserWindow.g.cs
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\obj\Debug\App.g.cs
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\obj\Debug\Coursework_Content.g.cs
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\obj\Debug\Coursework_MarkupCompile.cache
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\obj\Debug\Coursework_MarkupCompile.lref
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\obj\Debug\App.baml
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\obj\Debug\UserWindow.baml
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\obj\Debug\Coursework.g.resources
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\obj\Debug\Coursework.csproj.GenerateResource.cache
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\obj\Debug\Coursework.csproj.CoreCompileInputs.cache
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\obj\Debug\Coursework.csproj.Up2Date
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\obj\Debug\Coursework.exe
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\obj\Debug\Coursework.pdb
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\obj\Debug\NavigatePage.baml
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\obj\Debug\NavigatePage.g.cs
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\obj\Debug\CategoriesPage.g.cs
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\obj\Debug\OrdersPage.g.cs
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\obj\Debug\ShipmentsPage.g.cs
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\obj\Debug\SuppliersPage.g.cs
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\obj\Debug\CategoriesPage.baml
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\obj\Debug\OrdersPage.baml
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\obj\Debug\ShipmentsPage.baml
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\obj\Debug\SuppliersPage.baml
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\obj\Debug\CustomersPage.g.cs
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\obj\Debug\CustomersPage.baml
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\obj\Debug\Style.baml
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\obj\Debug\WelcomePage.baml
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\obj\Debug\WelcomePage.g.cs
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\System.Buffers.dll
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\System.Collections.Immutable.dll
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\System.Memory.dll
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\System.Buffers.xml
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\System.Collections.Immutable.xml
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\System.Memory.xml
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\timam\Desktop\нужное\source\repos\Coursework\Coursework\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\Coursework.exe.config
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\Coursework.exe
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\Coursework.pdb
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\EntityFramework.dll
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\System.Buffers.dll
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\System.Memory.dll
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\EntityFramework.xml
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\System.Buffers.xml
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\System.Memory.xml
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\obj\Debug\Coursework.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\obj\Debug\CategoriesPage.baml
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\obj\Debug\CustomersPage.baml
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\obj\Debug\LoginWindow.baml
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\obj\Debug\MainWindow.baml
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\obj\Debug\NavigatePage.baml
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\obj\Debug\OrdersPage.baml
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\obj\Debug\RegisterWindow.baml
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\obj\Debug\ShipmentsPage.baml
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\obj\Debug\Style.baml
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\obj\Debug\SuppliersPage.baml
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\obj\Debug\WelcomePage.baml
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\obj\Debug\CategoriesPage.g.cs
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\obj\Debug\CustomersPage.g.cs
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\obj\Debug\LoginWindow.g.cs
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\obj\Debug\MainWindow.g.cs
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\obj\Debug\NavigatePage.g.cs
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\obj\Debug\OrdersPage.g.cs
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\obj\Debug\RegisterWindow.g.cs
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\obj\Debug\ShipmentsPage.g.cs
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\obj\Debug\SuppliersPage.g.cs
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\obj\Debug\UserWindow.g.cs
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\obj\Debug\WelcomePage.g.cs
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\obj\Debug\App.g.cs
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\obj\Debug\Coursework_Content.g.cs
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\obj\Debug\Coursework_MarkupCompile.cache
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\obj\Debug\Coursework_MarkupCompile.lref
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\obj\Debug\App.baml
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\obj\Debug\UserWindow.baml
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\obj\Debug\Coursework.g.resources
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\obj\Debug\Coursework.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\obj\Debug\Coursework.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\obj\Debug\Coursework.csproj.Up2Date
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\obj\Debug\Coursework.exe
+C:\Users\Пользователь\Desktop\Новая папка (2)\нужное\source\repos\Coursework\Coursework\obj\Debug\Coursework.pdb
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\Coursework.exe.config
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\Coursework.exe
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\Coursework.pdb
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\EntityFramework.dll
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\System.Buffers.dll
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\System.Memory.dll
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\EntityFramework.xml
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\System.Buffers.xml
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\System.Memory.xml
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\obj\Debug\Coursework.csproj.AssemblyReference.cache
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\obj\Debug\CategoriesPage.baml
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\obj\Debug\CustomersPage.baml
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\obj\Debug\LoginWindow.baml
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\obj\Debug\MainWindow.baml
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\obj\Debug\NavigatePage.baml
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\obj\Debug\OrdersPage.baml
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\obj\Debug\RegisterWindow.baml
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\obj\Debug\ShipmentsPage.baml
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\obj\Debug\Style.baml
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\obj\Debug\SuppliersPage.baml
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\obj\Debug\WelcomePage.baml
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\obj\Debug\CategoriesPage.g.cs
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\obj\Debug\CustomersPage.g.cs
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\obj\Debug\LoginWindow.g.cs
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\obj\Debug\MainWindow.g.cs
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\obj\Debug\NavigatePage.g.cs
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\obj\Debug\OrdersPage.g.cs
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\obj\Debug\RegisterWindow.g.cs
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\obj\Debug\ShipmentsPage.g.cs
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\obj\Debug\SuppliersPage.g.cs
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\obj\Debug\UserWindow.g.cs
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\obj\Debug\WelcomePage.g.cs
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\obj\Debug\App.g.cs
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\obj\Debug\Coursework_MarkupCompile.cache
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\obj\Debug\Coursework_MarkupCompile.lref
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\obj\Debug\App.baml
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\obj\Debug\UserWindow.baml
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\obj\Debug\Coursework.g.resources
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\obj\Debug\Coursework.Properties.Resources.resources
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\obj\Debug\Coursework.csproj.GenerateResource.cache
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\obj\Debug\Coursework.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\obj\Debug\Coursework.csproj.Up2Date
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\obj\Debug\Coursework.exe
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\obj\Debug\Coursework.pdb
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\obj\Debug\Coursework.csproj.ResolveComReference.cache
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\obj\Debug\Coursework_Content.g.cs
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\obj\Debug\NavigatePage2.g.cs
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\obj\Debug\NavigatePage2.baml
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\LiveCharts.dll
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\LiveCharts.pdb
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\LiveCharts.xml
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\bin\Debug\ru\EntityFramework.SqlServer.resources.dll
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\obj\Debug\Page1.baml
+C:\Users\Пользователь\Desktop\source\repos\Coursework\Coursework\obj\Debug\Page1.g.cs

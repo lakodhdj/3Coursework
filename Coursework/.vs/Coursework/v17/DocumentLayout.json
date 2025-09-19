@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\source\\repos\\Coursework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD123977-89C4-4656-933D-115F857503AD}|Coursework\\Coursework.csproj|c:\\users\\\u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\desktop\\source\\repos\\coursework\\coursework\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FD123977-89C4-4656-933D-115F857503AD}|Coursework\\Coursework.csproj|solutionrelative:coursework\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD123977-89C4-4656-933D-115F857503AD}|Coursework\\Coursework.csproj|C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\source\\repos\\Coursework\\coursework\\navigatepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD123977-89C4-4656-933D-115F857503AD}|Coursework\\Coursework.csproj|solutionrelative:coursework\\navigatepage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD123977-89C4-4656-933D-115F857503AD}|Coursework\\Coursework.csproj|C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\source\\repos\\Coursework\\coursework\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD123977-89C4-4656-933D-115F857503AD}|Coursework\\Coursework.csproj|solutionrelative:coursework\\page1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD123977-89C4-4656-933D-115F857503AD}|Coursework\\Coursework.csproj|C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\source\\repos\\Coursework\\coursework\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{FD123977-89C4-4656-933D-115F857503AD}|Coursework\\Coursework.csproj|solutionrelative:coursework\\page1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD123977-89C4-4656-933D-115F857503AD}|Coursework\\Coursework.csproj|C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\source\\repos\\Coursework\\coursework\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD123977-89C4-4656-933D-115F857503AD}|Coursework\\Coursework.csproj|solutionrelative:coursework\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD123977-89C4-4656-933D-115F857503AD}|Coursework\\Coursework.csproj|C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\source\\repos\\Coursework\\coursework\\entities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD123977-89C4-4656-933D-115F857503AD}|Coursework\\Coursework.csproj|solutionrelative:coursework\\entities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 46,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\source\\repos\\Coursework\\Coursework\\App.xaml",
+              "RelativeDocumentMoniker": "Coursework\\App.xaml",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\source\\repos\\Coursework\\Coursework\\App.xaml",
+              "RelativeToolTip": "Coursework\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-08T12:04:19.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NavigatePage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\source\\repos\\Coursework\\Coursework\\NavigatePage.xaml.cs",
+              "RelativeDocumentMoniker": "Coursework\\NavigatePage.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\source\\repos\\Coursework\\Coursework\\NavigatePage.xaml.cs",
+              "RelativeToolTip": "Coursework\\NavigatePage.xaml.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T10:20:12.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\source\\repos\\Coursework\\Coursework\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Coursework\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\source\\repos\\Coursework\\Coursework\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Coursework\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T10:18:02.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Page1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\source\\repos\\Coursework\\Coursework\\Page1.xaml.cs",
+              "RelativeDocumentMoniker": "Coursework\\Page1.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\source\\repos\\Coursework\\Coursework\\Page1.xaml.cs",
+              "RelativeToolTip": "Coursework\\Page1.xaml.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAYwIoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T10:06:25.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Page1.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\source\\repos\\Coursework\\Coursework\\Page1.xaml",
+              "RelativeDocumentMoniker": "Coursework\\Page1.xaml",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\source\\repos\\Coursework\\Coursework\\Page1.xaml",
+              "RelativeToolTip": "Coursework\\Page1.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-05-08T10:06:18.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Entities.cs",
+              "DocumentMoniker": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\source\\repos\\Coursework\\Coursework\\Entities.cs",
+              "RelativeDocumentMoniker": "Coursework\\Entities.cs",
+              "ToolTip": "C:\\Users\\\u041F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044C\\Desktop\\source\\repos\\Coursework\\Coursework\\Entities.cs",
+              "RelativeToolTip": "Coursework\\Entities.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAADwv2gAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T09:11:59.026Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

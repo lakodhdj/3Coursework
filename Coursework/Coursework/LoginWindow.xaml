@@ -1,0 +1,35 @@
+﻿<Window x:Class="Coursework.LoginWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Вход" Height="300" Width="350" 
+        WindowStartupLocation="CenterScreen">
+
+
+    <Grid>
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center" Width="280">
+
+            <TextBlock Text="Вход" FontSize="20" FontWeight="Bold" 
+                       HorizontalAlignment="Center" Margin="0,10,0,20"/>
+
+            <TextBlock Text="Логин:"/>
+            <TextBox Name="LoginTextBox" Height="37" Width="258"/>
+
+            <TextBlock Text="Пароль:"/>
+            <Grid>
+                <PasswordBox x:Name="PasswordBox" Margin="10,0,40,0"/>
+                <TextBox x:Name="PasswordTextBox" Width="200" Visibility="Collapsed" 
+                         TextChanged="PasswordTextBox_TextChanged"/>
+                <Button x:Name="ShowPasswordButton" Content="👁" Width="30" Height="25" 
+                        HorizontalAlignment="Right" Click="ShowPasswordButton_Click"/>
+            </Grid>
+
+            <Button x:Name="SignInButton" Content="Войти" Height="35" 
+                    Margin="0,10,0,10" Click="SignInButton_Click"
+                    Style="{StaticResource CustomButtonStyle}"/>
+
+            <TextBlock Text="Нет аккаунта? Зарегистрируйтесь!" Foreground="Blue" TextDecorations="Underline"
+                       HorizontalAlignment="Center" Cursor="Hand"
+                       MouseLeftButtonDown="RegisterTextBlock_MouseLeftButtonDown"/>
+        </StackPanel>
+    </Grid>
+</Window>

@@ -1,0 +1,102 @@
+﻿<Page x:Class="Coursework.NavigatePage2"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Coursework"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="800"
+      Title="NavigatePage2">
+
+    <Page.Resources>
+        <!-- Gradient Background -->
+        <LinearGradientBrush x:Key="PageBackgroundGradient" StartPoint="0,0" EndPoint="1,1">
+            <GradientStop Color="#FFE3F2FD" Offset="0"/>
+            <GradientStop Color="#FFBBDEFB" Offset="1"/>
+        </LinearGradientBrush>
+
+        <!-- Shadow Effect for Button -->
+        <Style x:Key="ShadowEffect" TargetType="Button">
+            <Setter Property="Effect">
+                <Setter.Value>
+                    <DropShadowEffect BlurRadius="4" ShadowDepth="2" Color="#40000000"/>
+                </Setter.Value>
+            </Setter>
+        </Style>
+
+        <!-- Button Style -->
+        <Style x:Key="CustomButtonStyle" TargetType="Button">
+            <Setter Property="Margin" Value="10"/>
+            <Setter Property="Padding" Value="20"/>
+            <Setter Property="FontSize" Value="20"/>
+            <Setter Property="MinHeight" Value="60"/>
+            <Setter Property="MinWidth" Value="300"/>
+            <Setter Property="Background" Value="#FF4CAF50"/>
+            <Setter Property="Foreground" Value="White"/>
+            <Setter Property="BorderBrush" Value="DarkGreen"/>
+            <Setter Property="BorderThickness" Value="1"/>
+            <Setter Property="Cursor" Value="Hand"/>
+            <Setter Property="FontWeight" Value="SemiBold"/>
+            <Setter Property="HorizontalAlignment" Value="Center"/>
+            <Setter Property="VerticalAlignment" Value="Center"/>
+        </Style>
+    </Page.Resources>
+
+    <Grid Background="{StaticResource PageBackgroundGradient}">
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Margin="30" Width="400">
+            <TextBlock Text="Выберите таблицу:" 
+                       FontSize="26" 
+                       FontWeight="Bold" 
+                       Margin="0 0 0 30"
+                       HorizontalAlignment="Center"/>
+
+            <!-- Применение стиля CustomButtonStyle к кнопкам -->
+            <Button Content="Заказы" Style="{StaticResource CustomButtonStyle}" Click="OrdersButton_Click">
+                <Button.Effect>
+                    <DropShadowEffect BlurRadius="4" ShadowDepth="2" Color="#40000000"/>
+                </Button.Effect>
+            </Button>
+            <Button Content="Клиенты" Style="{StaticResource CustomButtonStyle}" Click="CustomersButton_Click">
+                <Button.Effect>
+                    <DropShadowEffect BlurRadius="4" ShadowDepth="2" Color="#40000000"/>
+                </Button.Effect>
+            </Button>
+
+            <!-- Кнопка Легенды -->
+            <Button Content="Легенда"
+                    Margin="20 30 20 0"
+                    Padding="15"
+                    FontSize="16"
+                    Background="#FF2196F3"
+                    Foreground="White"
+                    BorderBrush="DarkGreen"
+                    BorderThickness="1"
+                    Click="ShowLegend_Click"
+                    HorizontalAlignment="Center"
+                    MinWidth="200"
+                    Cursor="Hand">
+                <Button.Effect>
+                    <DropShadowEffect BlurRadius="4" ShadowDepth="2" Color="#40000000"/>
+                </Button.Effect>
+            </Button>
+
+            <!-- Новая кнопка Узнать роль -->
+            <Button Content="Узнать роль"
+                    Margin="20 30 20 0"
+                    Padding="15"
+                    FontSize="16"
+                    Background="#FF2196F3"
+                    Foreground="White"
+                    BorderBrush="DarkGreen"
+                    BorderThickness="1"
+                    Click="ShowRoleInfo_Click"
+                    HorizontalAlignment="Center"
+                    MinWidth="200"
+                    Cursor="Hand">
+                <Button.Effect>
+                    <DropShadowEffect BlurRadius="4" ShadowDepth="2" Color="#40000000"/>
+                </Button.Effect>
+            </Button>
+        </StackPanel>
+    </Grid>
+</Page>

@@ -1,0 +1,117 @@
+﻿<Page x:Class="Coursework.Pages.NavigatePage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      Title="Навигация"
+      Background="#FFF5F5F5">
+
+    <Grid>
+        <Grid.Background>
+            <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+                <GradientStop Color="#FFE3F2FD" Offset="0"/>
+                <GradientStop Color="#FFBBDEFB" Offset="1"/>
+            </LinearGradientBrush>
+        </Grid.Background>
+        <Border CornerRadius="10" 
+                Background="White" 
+                BorderBrush="#FF90CAF9"
+                BorderThickness="2"
+                Padding="20"
+                VerticalAlignment="Center"
+                HorizontalAlignment="Center"
+                >
+
+            <StackPanel Width="400">
+
+                <StackPanel Orientation="Horizontal" 
+                            HorizontalAlignment="Center" 
+                            Margin="0 0 0 30">
+                    <TextBlock Text="Выберите таблицу:" 
+                               FontSize="26" 
+                               FontWeight="SemiBold"
+                               Foreground="#FF333333"/>
+                </StackPanel>
+                <ItemsControl x:Name="MenuPanel">
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <Button Content="{Binding}" 
+                                    Margin="10 5"
+                                    Padding="20 15"
+                                    FontSize="18"
+                                    MinHeight="60"
+                                    MinWidth="300"
+                                    Background="#FF4CAF50"
+                                    Foreground="White"
+                                    BorderBrush="#FF2E7D32"
+                                    BorderThickness="1"
+                                    Cursor="Hand"
+                                    Click="TableButton_Click">
+                                <!-- Добавлено обратно событие Click -->
+                                <Button.Style>
+                                    <Style TargetType="Button">
+                                        <Setter Property="Template">
+                                            <Setter.Value>
+                                                <ControlTemplate TargetType="Button">
+                                                    <Border x:Name="border" 
+                                                            Background="{TemplateBinding Background}" 
+                                                            BorderBrush="{TemplateBinding BorderBrush}" 
+                                                            BorderThickness="{TemplateBinding BorderThickness}" 
+                                                            CornerRadius="5">
+                                                        <ContentPresenter HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                                                    </Border>
+                                                    <ControlTemplate.Triggers>
+                                                        <Trigger Property="IsMouseOver" Value="True">
+                                                            <Setter TargetName="border" Property="Background" Value="#FF43A047"/>
+                                                            <Setter TargetName="border" Property="BorderBrush" Value="#FF1B5E20"/>
+                                                        </Trigger>
+                                                        <Trigger Property="IsPressed" Value="True">
+                                                            <Setter TargetName="border" Property="Background" Value="#FF2E7D32"/>
+                                                            <Setter TargetName="border" Property="BorderBrush" Value="#FF1B5E20"/>
+                                                        </Trigger>
+                                                    </ControlTemplate.Triggers>
+                                                </ControlTemplate>
+                                            </Setter.Value>
+                                        </Setter>
+                                    </Style>
+                                </Button.Style>
+                            </Button>
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                </ItemsControl>
+        
+                <!-- Кнопка легенды -->
+                <Button Content="Показать легенду"
+                        Margin="20 30 20 0"
+                        Padding="15"
+                        FontSize="16"
+                        Background="#FF2196F3"
+                        Foreground="White"
+                        BorderBrush="#FF1565C0"
+                        BorderThickness="1"
+                        Click="ShowLegend_Click"
+                        HorizontalAlignment="Center"
+                        MinWidth="200"
+                        Cursor="Hand"
+                        >
+                    <Button.Effect>
+                        <DropShadowEffect BlurRadius="4" ShadowDepth="2" Color="#40000000"/>
+                    </Button.Effect>
+                </Button>
+            </StackPanel>
+        </Border>
+    </Grid>
+
+    <!-- Ресурсы для эффектов -->
+    <Page.Resources>
+        <Style x:Key="ShadowEffect" TargetType="Border">
+            <Setter Property="Effect">
+                <Setter.Value>
+                    <DropShadowEffect BlurRadius="10" 
+                                     ShadowDepth="3" 
+                                     Color="#60000000" 
+                                     Direction="270" 
+                                     Opacity="0.5"/>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Page.Resources>
+</Page>

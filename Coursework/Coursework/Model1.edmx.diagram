@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="1cbbc2ae2ef545478306bab26466f014" Name="Diagram1" ZoomLevel="56">
+        <EntityTypeShape EntityType="RETAIL_COURSE_WORKModel.Categories" Width="1.5" PointX="0.75" PointY="5" IsExpanded="true" />
+        <EntityTypeShape EntityType="RETAIL_COURSE_WORKModel.Customers" Width="1.5" PointX="0.75" PointY="8.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RETAIL_COURSE_WORKModel.Discounts" Width="1.5" PointX="5.25" PointY="5.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="RETAIL_COURSE_WORKModel.Employees" Width="1.5" PointX="3.875" PointY="10.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="RETAIL_COURSE_WORKModel.OrderDetails" Width="1.5" PointX="5.25" PointY="1.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RETAIL_COURSE_WORKModel.Orders" Width="1.5" PointX="6.625" PointY="9.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="RETAIL_COURSE_WORKModel.Products" Width="1.5" PointX="3" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="RETAIL_COURSE_WORKModel.ShipmentDetails" Width="1.5" PointX="11.25" PointY="7.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="RETAIL_COURSE_WORKModel.Shipments" Width="1.5" PointX="3" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="RETAIL_COURSE_WORKModel.Suppliers" Width="1.5" PointX="0.75" PointY="1.375" IsExpanded="true" />
+        <EntityTypeShape EntityType="RETAIL_COURSE_WORKModel.sysdiagrams" Width="1.5" PointX="7.75" PointY="1.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="RETAIL_COURSE_WORKModel.Users" Width="1.5" PointX="1.25" PointY="11.875" IsExpanded="true" />
+        <AssociationConnector Association="RETAIL_COURSE_WORKModel.FK_Products_Categories" ManuallyRouted="false" />
+        <AssociationConnector Association="RETAIL_COURSE_WORKModel.FK__Orders__Customer__42E1EEFE" ManuallyRouted="false" />
+        <AssociationConnector Association="RETAIL_COURSE_WORKModel.FK__Discounts__Produ__3B40CD36" ManuallyRouted="false" />
+        <AssociationConnector Association="RETAIL_COURSE_WORKModel.FK__Employees__UserI__40058253" ManuallyRouted="false" />
+        <AssociationConnector Association="RETAIL_COURSE_WORKModel.FK__Orders__Employee__43D61337" ManuallyRouted="false" />
+        <AssociationConnector Association="RETAIL_COURSE_WORKModel.FK__Shipments__Emplo__4C6B5938" ManuallyRouted="false" />
+        <AssociationConnector Association="RETAIL_COURSE_WORKModel.FK__OrderDeta__Order__46B27FE2" ManuallyRouted="false" />
+        <AssociationConnector Association="RETAIL_COURSE_WORKModel.FK__OrderDeta__Produ__47A6A41B" ManuallyRouted="false" />
+        <AssociationConnector Association="RETAIL_COURSE_WORKModel.FK__ShipmentD__Produ__51300E55" ManuallyRouted="false" />
+        <AssociationConnector Association="RETAIL_COURSE_WORKModel.FK__ShipmentD__Shipm__503BEA1C" ManuallyRouted="false" />
+        <AssociationConnector Association="RETAIL_COURSE_WORKModel.FK__Shipments__Suppl__4D5F7D71" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
